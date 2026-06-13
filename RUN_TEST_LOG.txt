@@ -1,0 +1,5 @@
+LOCAL_PIPELINE_TEST_PASS
+{"image_id": "img_bfa74b853f", "event": "IMAGE_PROCESSED"}
+{"image_id": "img_8fef61f4dd", "event": "IMAGE_PROCESSED"}
+{"video_id": "vid_27a2c3c15d", "frames": 10}
+{"motion_image_id": "img_86ab4a4950", "motion_event": "MOTION_DETECTED"}

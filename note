@@ -1,0 +1,2 @@
+giảm threshold sẽ khiến ảnh các đường nét đen sẽ ít hơn, còn tăng lên thì sẽ đen hết các chi tiết trừ vùng trống
+tăng giảm edge sẽ ảnh hưởng tới đường nét trắng của ảnh, càng cao càng ít nét và ngược lại
